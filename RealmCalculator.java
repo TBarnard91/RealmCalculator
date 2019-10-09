@@ -48,17 +48,6 @@
    into a PTO account. Any week you end below your max hours, the difference wil be payed from your PTO (if available). At the end of the contract PTO will not be payed out. In addition,
    for a 0/5, PTO cannot be used for the 10 hours of overtime.
    
-   As for the type of gaming, it will be any time logged in to an online account. Open the Realm application an link various accounts such as XBox Live, 
-   Playstation Network, Nintendo, Steam, EPIC, UPlay, Blizzard, Bethesda, Origin, LoL, Wargaming, Minecraft and so on. All major launchers will be allowed, and any launchers or standalone 
-   games that are not included can be marked indiviually and approved. Then, while gaming keep turn on the monitoring service in the Realm application.  
-   In addition, for any service that keeps track of total hours, offline play can be retroactively accounted for by comparing the difference.
-    Finally, the contractor has the right to occasionaly record and review gameplay. Leaving a game on while doing someting else
-   for a protracted length of time is not allowed, and will result in that time being excluded. Repeatedly doing so could result in termination of the contract.
-   This is quite leniant though. Spending 4 hours in character creator, intentially losing to get an achievement, or reading the manual/lore is completely acceptable. 
-   If you will be stepping away for an extended length of time (i.e. greater then 20min or so), simply turn off the monitoring option in the Realm app.
-   Should something happen and it gets left on, simply send a message via the app stating that X amount of time should not be included.
-   So long as you don't repeatly leave it on for hours or days (which would look intentional) there should never be any consequence.
-   
    The contract is meant to be freeing, and a guaranteed boon to any adult getting started in life. The hours are not mandatory, so work as many as you can or wish.
    At worst, you simply get payed for the time you already spend playing video games. Even poor scores can equal or surpass a good salary, and the best can pay
    well over 100k a year. Use the additional time and money to lay a foundation for your career and personal life such as taking unpaid internships, attending college
