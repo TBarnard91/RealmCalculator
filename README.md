@@ -58,7 +58,7 @@ Simple program to calculate various results from a given score. I generally got 
 
 /* 2-PERSON RULES
 
-   An alternate mode is using the score to determine what 2 people will be paid, specifically myself and Nick Keller, who I believe would responsibly use such a financial boost.
+   An alternate mode is using the score to determine what 2 people will be paid, specifically myself and Nick, who I believe would responsibly use such a financial boost.
    Only even-numbered scores will be allowed. Divide the score by 2, and then use the result to calculate everything else. (0 = 5, 2 = 1. 4 = 2, 6/1 = 3, 8/2 = 4). This does limit
    available options, results in much lower personal scores and therefore incomes.
 */
